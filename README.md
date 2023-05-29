@@ -13,7 +13,7 @@
 This is an exercise for practice ECMAScript 6 features like map, filter, reduce, sort and ternary operators (It's mandatory to use them to manipulate arrays) for, forEach and if/else it's not allowed .It has empty functions that you should complete and run the tests, you can add parameters. It has a data file that contains songs information and your goal is to pass all tests, you don't have to show anything on the screen.
 
 ## Requirements
-Fork this repo into your Github account.
+Clone this repo into your Github account.
 
 ## Installation and run tests
 - npm install
@@ -51,7 +51,7 @@ Use the tests/songs.test.js file to know exactly what you are asked to do but do
 Este es un ejercicio para practicar las funcionalidades de ECMAScript 6 tales como map, filter, reduce, sort y condicionales ternarios (Su uso es obligatorio para manipular los arrays) las funcionalidades de for, forEach y if/else no están permitidas. Las funciones ya están declaradas y se deberá añadir el código y pasar los tests, está permitido añadir parámetros si se necesita. Existe un archivo deta.js que contiene un array de objetos con canciones y el objetivo del ejercicio es pasar todos los tests. No es necesario mostrar nada en pantalla.
 
 ## Requerimientos
-Hacer un fork de este repositorio en tu cuenta de Github.
+Hacer un clone de este repositorio en tu cuenta de Github.
 
 ## Installation y tests
 - npm install
